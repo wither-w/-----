@@ -7,7 +7,8 @@
 // @match        https://shangoue.meituan.com/*
 // @run-at       document-idle
 // @grant none
-
+// @downloadURl https://raw.githubusercontent.com/wither-w/-----/refs/heads/main/meituan%20test-0.5.user.js
+// @updateURL   https://raw.githubusercontent.com/wither-w/-----/refs/heads/main/meituan%20test-0.5.user.js
 // @require https://cdn.jsdelivr.net/npm/jszip@3.10.1/dist/jszip.min.js
 // ==/UserScript==
 
